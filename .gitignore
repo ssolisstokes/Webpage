@@ -1,3 +1,23 @@
+
+
+
+#files to ignore
+
+*personal-webpage.Rproj
+*elements.html
+*fieldwork.html
+*research.html
+*gallery.html
+
+#Folders
+personal-webpage/
+links/
+images/
+
+
+
+*.Rproj
+
 # History files
 .Rhistory
 .Rapp.history
